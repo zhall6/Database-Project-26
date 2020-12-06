@@ -18,7 +18,7 @@ TBD
 TBD
 
 ## EERD:
-TBD
+[EERD](images/Project EERD.jpg)
 
 ## MySQL Queries:
 TBD
