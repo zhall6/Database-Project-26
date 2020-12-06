@@ -26,6 +26,9 @@ This project will add a rating system for drivers and restaurants. The rating sy
 ## EERD:
 [EERD](https://github.com/zhall6/Database-Project-26/blob/main/images/Project%20EERD.jpg)
 
+## Data Dictionary
+[Data Dictionary](https://github.com/zhall6/Database-Project-26/blob/main/DataDictionary/DataDictionary.pdf)
+
 ## MySQL Queries:
 TBD
 
