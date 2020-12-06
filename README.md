@@ -12,7 +12,7 @@ This project will add a rating system for drivers and restaurants. The rating sy
 
 
 ## Use Case for Rating System:
-TBD
+[Use Case](https://github.com/zhall6/Database-Project-26/blob/main/images/Use%20Case.jpg)
 
 ## Business Rules:
 TBD
