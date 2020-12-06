@@ -18,7 +18,7 @@ TBD
 TBD
 
 ## EERD:
-[EERD](images/Project EERD.jpg)
+[EERD](https://github.com/zhall6/Database-Project-26/blob/main/images/Project%20EERD.jpg)
 
 ## MySQL Queries:
 TBD
