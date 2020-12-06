@@ -15,7 +15,12 @@ This project will add a rating system for drivers and restaurants. The rating sy
 [Use Case](https://github.com/zhall6/Database-Project-26/blob/main/images/Use%20Case.jpg)
 
 ## Business Rules:
-TBD
+- Only Students can be drivers
+- Customers must be registered
+- Customers must order from a restaurant before rating it
+- Delivery must be made before the driver can be rated
+- Admin can view drivers' and restaurants' ratings
+- Ratings will be between 1 and 5
 
 ## EERD:
 [EERD](https://github.com/zhall6/Database-Project-26/blob/main/images/Project%20EERD.jpg)
