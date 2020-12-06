@@ -21,6 +21,7 @@ This project will add a rating system for drivers and restaurants. The rating sy
 - Delivery must be made before the driver can be rated
 - Admin can view drivers' and restaurants' ratings
 - Ratings will be between 1 and 5
+- Comments may be added
 
 ## EERD:
 [EERD](https://github.com/zhall6/Database-Project-26/blob/main/images/Project%20EERD.jpg)
