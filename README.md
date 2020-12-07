@@ -40,7 +40,11 @@ This project will add a rating system for drivers and restaurants. The rating sy
 [MySQL Queries](https://github.com/zhall6/Database-Project-26/tree/main/MySQL%20Queries)
 
 ## Stored Procedure:
-TBD
+There are 4 procedures:
+- add_driver_score - allows the customer to rate a driver
+- add_restaurant_score - allows the customer to rate a restaurant
+- avg_driver_score - averages the score of a driver
+- acg_restaurant_score - averages the score of a restaurant
 
 ## Web/App Implementation:
 TBD
