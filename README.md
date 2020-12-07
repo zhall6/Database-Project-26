@@ -34,7 +34,7 @@ This project will add a rating system for drivers and restaurants. The rating sy
 - Comments can be added to a rating
 
 ## Data Dictionary
-[Data Dictionary](https://github.com/zhall6/Database-Project-26/blob/main/DataDictionary/DataDictionary.pdf)
+[Data Dictionary](https://github.com/zhall6/Database-Project-26/blob/main/DataDictionary/DataDictionary2.pdf)
 
 ## MySQL Queries:
 [MySQL Queries](https://github.com/zhall6/Database-Project-26/tree/main/MySQL%20Queries)
@@ -50,7 +50,7 @@ There are 4 procedures:
 TBD
 
 ## MySQL Dump
-[Data Dump](https://github.com/zhall6/Database-Project-26/blob/main/Data%20Dump/DataDump.sql)
+[Data Dump](https://github.com/zhall6/Database-Project-26/blob/main/Data%20Dump/DataDump3.sql)
 
 ## PPT Video:
 TBD
