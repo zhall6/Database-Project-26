@@ -39,7 +39,7 @@ TBD
 TBD
 
 ## MySQL Dump
-TBD
+[Data Dump](https://github.com/zhall6/Database-Project-26/blob/main/Data%20Dump/DataDump.sql)
 
 ## PPT Video:
 TBD
