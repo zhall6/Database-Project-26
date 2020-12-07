@@ -24,7 +24,7 @@ This project will add a rating system for drivers and restaurants. The rating sy
 - Comments may be added
 
 ## EERD:
-[EERD](https://github.com/zhall6/Database-Project-26/blob/main/images/Project%20EERD.jpg)
+[EERD](https://github.com/zhall6/Database-Project-26/blob/main/images/Project%20EERD2.jpg)
 
 - The database contains 12 tables and has some rules
 - An order belongs to a restaurant and driver
