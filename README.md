@@ -30,7 +30,7 @@ This project will add a rating system for drivers and restaurants. The rating sy
 [Data Dictionary](https://github.com/zhall6/Database-Project-26/blob/main/DataDictionary/DataDictionary.pdf)
 
 ## MySQL Queries:
-TBD
+[MySQL Queries](https://github.com/zhall6/Database-Project-26/tree/main/MySQL%20Queries)
 
 ## Stored Procedure:
 TBD
