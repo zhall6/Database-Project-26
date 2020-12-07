@@ -44,7 +44,7 @@ There are 4 procedures:
 - add_driver_score - allows the customer to rate a driver
 - add_restaurant_score - allows the customer to rate a restaurant
 - avg_driver_score - averages the score of a driver
-- acg_restaurant_score - averages the score of a restaurant
+- avg_restaurant_score - averages the score of a restaurant
 
 ## Web/App Implementation:
 TBD
