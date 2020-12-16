@@ -54,7 +54,7 @@ There are 4 procedures:
 [Query Optimization](https://github.com/zhall6/Database-Project-26/blob/main/MySQL%20Queries/Query%20Optimization.jpg)
 
 ## MySQL Dump
-[Data Dump](https://github.com/zhall6/Database-Project-26/blob/main/Data%20Dump/DataDump3.sql)
+[Data Dump](https://github.com/zhall6/Database-Project-26/blob/main/Data%20Dump/DataDump5.sql)
 
 ## PPT Video:
 TBD
