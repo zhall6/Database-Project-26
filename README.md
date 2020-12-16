@@ -43,7 +43,6 @@ This project will add a rating system for drivers and restaurants. The rating sy
 [Advanced View for Restaurant](https://github.com/zhall6/Database-Project-26/blob/main/MySQL%20Queries/Advanced%20View.jpg)  
 [Advanced View for Driver](https://github.com/zhall6/Database-Project-26/blob/main/MySQL%20Queries/Advanced%20View%202.jpg)
 
-
 ## Stored Procedure:
 There are 4 procedures:
 - add_driver_score - allows the customer to rate a driver
@@ -51,6 +50,8 @@ There are 4 procedures:
 - avg_driver_score - averages the score of a driver
 - avg_restaurant_score - averages the score of a restaurant
 
+## Query Optimization
+[Query Optimization](https://github.com/zhall6/Database-Project-26/blob/main/MySQL%20Queries/Query%20Optimization.jpg)
 
 ## MySQL Dump
 [Data Dump](https://github.com/zhall6/Database-Project-26/blob/main/Data%20Dump/DataDump3.sql)
